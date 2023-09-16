@@ -1,0 +1,5 @@
+- through settings - cmd or
+- **DHCP** dynamic host configuration protocol - “plug n play”, gives IP to pc that connects (plugs) in network
+	- can renew lease of address in use
+	- allows reuse of addresses
+	- support for mobile 

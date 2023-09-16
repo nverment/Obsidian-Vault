@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3ec5feb08b301a9f",
+        "id": "8a18f935351efbe1",
         "type": "tabs",
         "children": [
           {
-            "id": "9b217900abeedc05",
+            "id": "8b90794110be007e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "chapter 6.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "eabbb423cf69a6bd",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "chapter 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "chapter 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,15 +126,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chapter 4.md"
+                "file": "chapter 6.md"
+              }
+            }
+          },
+          {
+            "id": "817b20293d7058cb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -141,45 +160,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "92116339355efee9",
+  "active": "8b90794110be007e",
   "lastOpenFiles": [
-    "δικτυα 2/virtual circuit.md",
-    "δικτυα 2/switch fabric.md",
-    "δικτυα 2/routing algorithms.md",
-    "δικτυα 2/routing algorithm.md",
-    "δικτυα 2/longest prefix.md",
-    "δικτυα 2/forwarding table.md",
-    "δικτυα 2/datagram.md",
-    "δικτυα 2/chapter 4.md",
-    "images/Pasted image 20230905192140.png",
-    "images/Pasted image 20230905191833.png",
-    "images/Pasted image 20230905201128.png",
-    "images/Pasted image 20230905200336.png",
-    "images/Pasted image 20230905193255.png",
-    "images/Pasted image 20230905192311.png",
-    "images/Pasted image 20230905192153.png",
-    "Pasted image 20230905201128.png",
-    "switch fabric.md",
-    "chapter 4.md",
-    "Pasted image 20230905200336.png",
-    "Pasted image 20230905193255.png",
-    "routing algorithms.md",
-    "longest prefix.md",
-    "virtual circuit.md",
-    "datagram.md",
-    "forwarding table.md",
-    "routing algorithm.md",
-    "δικτυα 2/network layer.md",
-    "δικτυα 2/chapter 3.md",
-    "δικτυα 2/chapter2exs.md",
-    "images/chapter3exs.md",
-    "Untitled.md",
     "δικτυα 2/δίκτυα II.md",
-    "δικτυα 2/TCP sequence number.md",
-    "δικτυα 2/MSS.md",
+    "chapter 6.md",
+    "transport layer.md",
+    "δικτυα 2/routing algorithm.md",
     "δικτυα 2/handshake.md",
-    "δικτυα 2/addition.md",
+    "chapter 5.md",
+    "multicast datagrams.md",
+    "multicast group.md",
+    "spanning tree.md",
+    "Pasted image 20230916172346.png",
+    "Pasted image 20230916172229.png",
+    "Pasted image 20230916172156.png",
+    "Pasted image 20230916171825.png",
+    "BGP.md",
+    "Pasted image 20230916165648.png",
+    "Pasted image 20230916165615.png",
+    "Pasted image 20230916165530.png",
+    "intra-AS routing.md",
+    "poisoned reverse.md",
+    "AS.md",
+    "Pasted image 20230916162010.png",
+    "Pasted image 20230916161338.png",
+    "δικτυα 2/chapter 4.md",
+    "CIDR.md",
+    "how do we get IP address.md",
+    "Pasted image 20230916154817.png",
+    "φυσική/φυσική.md",
+    "φυσική/πεδίο.md",
+    "φυσική/ηλεικτρικό πεδίο.md",
+    "φυσική/νόμοι kirchoff.md",
+    "φυσική/κύκλωμα με πολλές πηγές.md",
+    "φυσική/ενέργεια ζεύγους.md",
+    "φυσική/δυναμικό - τάση.md",
+    "φυσική/ΔVτελική μεταξύ άκρων 2 πυκνωτών.md",
+    "φυσική/ωμικά - μη ωμικά υλικά.md",
+    "φυσική/συνδεσμολιγίες πυκνωτών.md",
+    "υπολογιστικά μαθηματικά/images",
+    "υπολογιστικά μαθηματικά/New folder",
+    "υπολογιστικά μαθηματικά",
+    "New folder",
+    "φυσική",
+    "φυσική/images",
+    "Untitled.canvas",
     "δικτυα 2",
-    "images"
+    "δικτυα 2/images"
   ]
 }

@@ -1,0 +1,1 @@
+if one cost>>>>>, say it is **infinite** and just not use it

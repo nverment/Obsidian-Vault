@@ -1,1 +1,2 @@
 - reads the header, determines path through the network
+- we need the **least cost path**

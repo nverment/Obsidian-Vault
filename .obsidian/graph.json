@@ -6,7 +6,29 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"δικτυα 2\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 7381473
+      }
+    },
+    {
+      "query": "path:φυσική  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "tag:#φυσική  ",
+      "color": {
+        "a": 1,
+        "rgb": 8890185
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7132754626224436,
-  "close": true
+  "scale": 0.2588386562181633,
+  "close": false
 }
