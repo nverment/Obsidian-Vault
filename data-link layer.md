@@ -1,0 +1,1 @@
+- transfers datagram from one node to adjacent node over link (can’t see - doesn’t care about the contents)

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "δικτυα 2/chapter 4.md",
+                "file": "δικτυα 2/chapter 6.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "eabbb423cf69a6bd",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "δικτυα 2/chapter 4.md",
+                "file": "δικτυα 2/chapter 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "δικτυα 2/chapter 4.md",
+                "file": "δικτυα 2/chapter 6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "δικτυα 2/chapter 4.md"
+                "file": "δικτυα 2/chapter 6.md"
               }
             }
           },
@@ -161,8 +162,20 @@
   },
   "active": "8b90794110be007e",
   "lastOpenFiles": [
+    "Pasted image 20230916184447.png",
+    "MAC address.md",
+    "δικτυα 2/chapter 6.md",
     "δικτυα 2/δίκτυα II.md",
+    "δικτυα 2/chapter 2.md",
+    "δικτυα 2/chapter2exs.md",
+    "data-link layer.md",
+    "Pasted image 20230916183828.png",
+    "MAC.md",
     "δικτυα 2/chapter 5.md",
+    "δικτυα 2/chapter 4.md",
+    "δικτυα 2/chapter 3.md",
+    "Pasted image 20230916183719.png",
+    "δικτυα 2/images/Pasted image 20230916165648.png",
     "δικτυα 2/images/Pasted image 20230916165615.png",
     "δικτυα 2/images/Pasted image 20230916165530.png",
     "δικτυα 2/images/Pasted image 20230916162010.png",
@@ -170,33 +183,21 @@
     "δικτυα 2/images/Pasted image 20230916154817.png",
     "δικτυα 2/images/Pasted image 20230916152220.png",
     "δικτυα 2/images/Pasted image 20230916141332.png",
-    "δικτυα 2/images/Pasted image 20230916141105.png",
-    "δικτυα 2/images/Pasted image 20230916172346.png",
-    "δικτυα 2/images/Pasted image 20230916172229.png",
-    "chapter 5.md",
+    "δικτυα 2/transport layer.md",
+    "δικτυα 2/spanning tree.md",
+    "δικτυα 2/routing algorithms.md",
     "δικτυα 2/poisoned reverse.md",
+    "δικτυα 2/CIDR.md",
+    "δικτυα 2/BGP.md",
+    "δικτυα 2/AS.md",
     "δικτυα 2/multicast group.md",
     "δικτυα 2/multicast datagrams.md",
     "δικτυα 2/intra-AS routing.md",
     "δικτυα 2/how do we get IP address.md",
-    "δικτυα 2/CIDR.md",
-    "δικτυα 2/chapter 6.md",
-    "δικτυα 2/BGP.md",
-    "δικτυα 2/AS.md",
-    "δικτυα 2/transport layer.md",
-    "δικτυα 2/spanning tree.md",
+    "δικτυα 2/handshake.md",
     "chapter 6.md",
-    "intra-AS routing.md",
-    "δικτυα 2/chapter 4.md",
-    "AS.md",
-    "how do we get IP address.md",
-    "multicast datagrams.md",
-    "spanning tree.md",
-    "poisoned reverse.md",
-    "multicast group.md",
-    "transport layer.md",
-    "CIDR.md",
-    "BGP.md",
+    "δίκτυα II.md",
+    "virtual circuit.md",
     "υπολογιστικά μαθηματικά/images",
     "υπολογιστικά μαθηματικά/New folder",
     "υπολογιστικά μαθηματικά",
