@@ -1,1 +1,0 @@
-datagram network provides a network-layer **connectionless** service (physical machine to physical machine)
