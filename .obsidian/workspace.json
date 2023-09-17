@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "δικτυα 2/chapter 6.md",
+                "file": "chapter 7.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "eabbb423cf69a6bd",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "δικτυα 2/chapter 6.md",
+                "file": "chapter 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "δικτυα 2/chapter 6.md",
+                "file": "chapter 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "δικτυα 2/chapter 6.md"
+                "file": "chapter 7.md"
               }
             }
           },
@@ -162,26 +161,32 @@
   },
   "active": "8b90794110be007e",
   "lastOpenFiles": [
+    "Pasted image 20230917153408.png",
+    "chapter 7.md",
+    "δικτυα 2/MAC.md",
+    "Pasted image 20230917152050.png",
+    "base station.md",
+    "SNR versus BER tradeoffs.md",
+    "BER.md",
+    "Pasted image 20230917141701.png",
+    "relay.md",
+    "δικτυα 2/δίκτυα II.md",
+    "δικτυα 2/chapter 6.md",
+    "Pasted image 20230917134420.png",
+    "Pasted image 20230917134216.png",
+    "δικτυα 2/CSMA-CD.md",
+    "Pasted image 20230917133747.png",
     "δικτυα 2/images/Pasted image 20230916183828.png",
     "δικτυα 2/images/Pasted image 20230916183719.png",
     "δικτυα 2/images/Pasted image 20230916223834.png",
     "δικτυα 2/images/Pasted image 20230916223652.png",
     "δικτυα 2/images/Pasted image 20230916223640.png",
-    "δικτυα 2/images/Pasted image 20230916223504.png",
-    "δικτυα 2/images/Pasted image 20230916222956.png",
-    "δικτυα 2/images/Pasted image 20230916222105.png",
-    "δικτυα 2/images/Pasted image 20230916193054.png",
-    "δικτυα 2/images/Pasted image 20230916192837.png",
-    "δικτυα 2/images/Pasted image 20230916184447.png",
     "δικτυα 2/MAC address.md",
     "δικτυα 2/data-link layer.md",
-    "δικτυα 2/CSMA-CD.md",
     "δικτυα 2/slotted ALOHA.md",
     "δικτυα 2/pure - unslotted aloha.md",
-    "δικτυα 2/MAC.md",
     "δικτυα 2/MAC protocols.md",
     "CSMA-CD.md",
-    "δικτυα 2/chapter 6.md",
     "CSMA/CD.md",
     "CSMA",
     "pure - unslotted aloha.md",
@@ -193,12 +198,6 @@
     "MAC address.md",
     "δικτυα 2/transport layer.md",
     "δικτυα 2/spanning tree.md",
-    "δικτυα 2/routing algorithms.md",
-    "δικτυα 2/poisoned reverse.md",
-    "δικτυα 2/CIDR.md",
-    "δικτυα 2/BGP.md",
-    "δικτυα 2/AS.md",
-    "δικτυα 2/multicast group.md",
     "υπολογιστικά μαθηματικά/images",
     "υπολογιστικά μαθηματικά/New folder",
     "υπολογιστικά μαθηματικά",

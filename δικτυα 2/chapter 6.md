@@ -135,10 +135,39 @@ tprop → 0
 efficiency → 1
 
 **10BaseT and 100BaseT**
+*used for describing data transfer speed*
 10/100 = max supposed transmission rate - “fast ethernet”
 T = “twisted pair”
 
 nodes connected in “star topology”
 ![[Pasted image 20230916223834.png]]
 
-** MISSING HUBS
+-----
+**hubs**
+physical - layer repeaters 
+- m bits coming from **one link to all other links**, at the same rate
+- **no CSMA/CD** at the hub, adapters detect collisions
+![[Pasted image 20230917133747.png]]
+
+**interconnecting with hubs**
+- extends max distance between nodes
+- BUT individual segment collision domains become one large collision domain
+- can’t interconnect 10BaseT and 100BaseT
+![[Pasted image 20230917134216.png]]
+-----
+**switch**
+- [[data-link layer]] device 
+- stores and forwards ethernate frames **selectively**, based on MAC dest address
+- “transparent” - hosts unaware of switches
+- plug n play, self learning
+![[Pasted image 20230917134420.png]]
+
+**forwarding**
+if a switch wants to send a frame
+- if dest. switch not on the known table, frame is sent to all interfaces
+- data on table updated
+- if dest. switch on the known table, frame is instantly sent to correct interface
+- *each subnet of LAN segments become seperate collision domains*
+
+- routers - routing tables, routing algorithms
+- switches - switch tables, **filtering, learning algorithms**

@@ -1,6 +1,6 @@
 {
-  "accentColor": "",
-  "theme": "moonstone",
-  "cssTheme": "Sanctum",
+  "accentColor": "#0f6115",
+  "theme": "obsidian",
+  "cssTheme": "Obsidian gruvbox",
   "baseFontSize": 15
 }
