@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "δικτυα 2/chapter 7.md",
+                "file": "δικτυα 2/δίκτυα II.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "δικτυα 2/chapter 7.md",
+                "file": "δικτυα 2/δίκτυα II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "δικτυα 2/chapter 7.md",
+                "file": "δικτυα 2/δίκτυα II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "δικτυα 2/chapter 7.md"
+                "file": "δικτυα 2/δίκτυα II.md"
               }
             }
           },
@@ -159,14 +159,35 @@
   },
   "active": "8d88581adecc330a",
   "lastOpenFiles": [
-    "δικτυα 2/telnet.md",
+    "δικτυα 2/chapter 2.md",
+    "δικτυα 2/chapter2exs.md",
+    "δικτυα 2/chapter 7.md",
+    "δικτυα 2/chapter 6.md",
+    "δικτυα 2/chapter 5.md",
+    "δικτυα 2/chapter 4.md",
+    "δικτυα 2/chapter 3.md",
+    "δικτυα 2/links/chapter 3.md",
+    "δικτυα 2/links/chapter 2.md",
+    "δικτυα 2/links/BGP.md",
+    "δικτυα 2/links/BER.md",
+    "δικτυα 2/links/AS.md",
+    "δικτυα 2/links/app layer.md",
+    "δικτυα 2/links/addition.md",
+    "δικτυα 2/links/virtual circuit.md",
+    "δικτυα 2/links/UDP.md",
+    "δικτυα 2/links/transport layer.md",
+    "δικτυα 2/links/telnet.md",
+    "δικτυα 2/links/TCP.md",
+    "δικτυα 2/links/TCP sequence number.md",
+    "δικτυα 2/links/switch fabric.md",
+    "δικτυα 2/links/spanning tree.md",
+    "δικτυα 2/links/SNR versus BER tradeoffs.md",
+    "δικτυα 2/links/slotted ALOHA.md",
+    "δικτυα 2/links/selective repeat.md",
+    "δικτυα 2/links/routing algorithm.md",
+    "δικτυα 2/links",
+    "δικτυα 2/New folder",
     "δικτυα 2/images/Pasted image 20230917205239.png",
-    "δικτυα 2/app layer.md",
-    "δικτυα 2/UDP.md",
-    "δικτυα 2/TCP.md",
-    "δικτυα 2/FTP.md",
-    "δικτυα 2/DNS.md",
-    "δικτυα 2/MAC protocols.md",
     "δικτυα 2/images/Pasted image 20230918122317.png",
     "δικτυα 2/images/Pasted image 20230918122255.png",
     "δικτυα 2/images/Pasted image 20230918122159.png",
@@ -176,24 +197,6 @@
     "δικτυα 2/images/Pasted image 20230918123410.png",
     "δικτυα 2/images/Pasted image 20230918122821.png",
     "δικτυα 2/Pasted image 20230918122821.png",
-    "δικτυα 2/indirect routing.md",
-    "δικτυα 2/direct routing.md",
-    "δικτυα 2/MAC address.md",
-    "indirect routing.md",
-    "direct routing.md",
-    "δικτυα 2/chapter 7.md",
-    "δικτυα 2/slotted ALOHA.md",
-    "δικτυα 2/relay.md",
-    "δικτυα 2/pure - unslotted aloha.md",
-    "δικτυα 2/data-link layer.md",
-    "δικτυα 2/SNR versus BER tradeoffs.md",
-    "δικτυα 2/CSMA-CD.md",
-    "δικτυα 2/BER.md",
-    "δικτυα 2/routing algorithms.md",
-    "δικτυα 2/handshake.md",
-    "Untitled.md",
-    "δικτυα 2/chapter 6.md",
-    "δικτυα 2/chapter 3.md",
     "υπολογιστικά μαθηματικά/images",
     "υπολογιστικά μαθηματικά/New folder",
     "υπολογιστικά μαθηματικά",
