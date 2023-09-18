@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chapter 7.md",
+                "file": "δικτυα 2/chapter 7.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "eabbb423cf69a6bd",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chapter 7.md",
+                "file": "δικτυα 2/chapter 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chapter 7.md",
+                "file": "δικτυα 2/chapter 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chapter 7.md"
+                "file": "δικτυα 2/chapter 7.md"
               }
             }
           },
@@ -161,6 +162,17 @@
   },
   "active": "8b90794110be007e",
   "lastOpenFiles": [
+    "Pasted image 20230918130015.png",
+    "Pasted image 20230918125956.png",
+    "direct routing.md",
+    "Pasted image 20230918124603.png",
+    "indirect routing.md",
+    "δικτυα 2/chapter 7.md",
+    "Pasted image 20230918123410.png",
+    "Pasted image 20230918122821.png",
+    "Pasted image 20230918122317.png",
+    "Pasted image 20230918122255.png",
+    "Pasted image 20230918122159.png",
     "Pasted image 20230917153408.png",
     "chapter 7.md",
     "δικτυα 2/MAC.md",
@@ -172,15 +184,7 @@
     "relay.md",
     "δικτυα 2/δίκτυα II.md",
     "δικτυα 2/chapter 6.md",
-    "Pasted image 20230917134420.png",
-    "Pasted image 20230917134216.png",
     "δικτυα 2/CSMA-CD.md",
-    "Pasted image 20230917133747.png",
-    "δικτυα 2/images/Pasted image 20230916183828.png",
-    "δικτυα 2/images/Pasted image 20230916183719.png",
-    "δικτυα 2/images/Pasted image 20230916223834.png",
-    "δικτυα 2/images/Pasted image 20230916223652.png",
-    "δικτυα 2/images/Pasted image 20230916223640.png",
     "δικτυα 2/MAC address.md",
     "δικτυα 2/data-link layer.md",
     "δικτυα 2/slotted ALOHA.md",
@@ -195,9 +199,6 @@
     "δικτυα 2/chapter 5.md",
     "data-link layer.md",
     "MAC.md",
-    "MAC address.md",
-    "δικτυα 2/transport layer.md",
-    "δικτυα 2/spanning tree.md",
     "υπολογιστικά μαθηματικά/images",
     "υπολογιστικά μαθηματικά/New folder",
     "υπολογιστικά μαθηματικά",

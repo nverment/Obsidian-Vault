@@ -68,4 +68,34 @@ host must **associate with an AP** - scans, selects, may perform authentication 
 	- **mobile users** attach through BS
 	- **air-interface** physical and link layer protocol between mobile and BS
 
-slide 34
+**mobility**
+![[Pasted image 20230918122159.png]]
+
+vocabulary
+![[Pasted image 20230918122255.png]]
+![[Pasted image 20230918122317.png]]
+
+**how to contact mobile**
+- **let routing handle it** advertise permanent address of mobile nodes via routing table, indicating where “target” located (VERY HARD - DOES NOT SCALE)
+- **let end systems handle it** 
+	- [[indirect routing]] communication from correspondent goes through home agent, then forwarded to remote
+	- [[direct routing]] correspondent gets *foreign address* of mobile, sends directly
+
+**registration**
+if mobile agent is at a certain home network
+- foreign agent contacts home agent “this mobile is resident in my network”
+- mobile contacts foreign agent on entering visited network
+
+![[indirect routing]]
+
+![[direct routing]]
+
+**mobile IP**
+“packet within a packet”
+
+![[Pasted image 20230918125956.png]]
+
+**agent advertisement** foreign/home agents advertise service by broadcasting ICMP messages (typefield = 9)
+
+![[Pasted image 20230918130015.png]]
+
