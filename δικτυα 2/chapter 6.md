@@ -156,10 +156,11 @@ physical - layer repeaters
 ![[Pasted image 20230917134216.png]]
 -----
 **switch**
-- [[data-link layer]] device 
-- stores and forwards ethernate frames **selectively**, based on MAC dest address
+- [[data-link layer]] device - does NOT separate broadcast domains → cannot make more domains
+- stores and forwards ethernet frames **selectively**, based on MAC dest address
 - “transparent” - hosts unaware of switches
 - plug n play, self learning
+
 ![[Pasted image 20230917134420.png]]
 
 **forwarding**
@@ -167,7 +168,7 @@ if a switch wants to send a frame
 - if dest. switch not on the known table, frame is sent to all interfaces
 - data on table updated
 - if dest. switch on the known table, frame is instantly sent to correct interface
-- *each subnet of LAN segments become seperate collision domains*
+- *each subnet of LAN segments become separate collision domains*
 
 - routers - routing tables, routing algorithms
 - switches - switch tables, **filtering, learning algorithms**

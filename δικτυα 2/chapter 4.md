@@ -119,6 +119,8 @@ ICANN Internet Corporation for Assigned Names and Numbers
 - manages DNS 
 - assigns domain names, resolves disputes - it’s how ISP’S get a block of addresses
 
+[[telnet]]
+
 **local - home network**
 datagram with source or destination in local network have 10.0.0/24 address for source, destination - but all datagrams leaving local network have the same SINGLE SOURCE **NAT IP address**
 

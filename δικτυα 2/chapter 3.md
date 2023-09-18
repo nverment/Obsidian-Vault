@@ -21,14 +21,8 @@ host uses ip address and port numbers to direct segment into socket
 
 when creating socket, we set a host-local port 
 	DatagramSocket mySocket1 = new DatagramSocket(12345);
-
-for datagram to send into UDP socket 
-- dest ip address
-- dest port #
-
-when host receives UDP 
-- checks dest port #
-- directs UDP to socket with that port #
+	
+![[UDP]]
 
 **TCP socket identified by**
 - source ip address
@@ -40,15 +34,9 @@ when host receives UDP
 - web servers: different socket for each client 
 	*non-persistent HTTP has different socket for each request*
 
-**UDP**
-streaming, multimedia apps, DNS, SNMP
-
 for reliable transfer
 - reliability at application layer
 - application-specific error recovery
-
-**UDP segment header**
-![[Pasted image 20230904193406.png]]
 
 **checksum** detects errors (e.g. flipped bits) in transmitted segment
 
@@ -76,13 +64,8 @@ for reliable transfer
 sender allows multiple, "in-flight", yet-to-be-acknowledged packets 
 - go-back-N![[go-back-N]]
 - selective repeat![[selective repeat]]
-**TCP overview**
-- **point-to-point** one sender, one receiver
-- **reliable, in-order byte stream** no msg boundaries
-- **pipelined** TCP congestion and flow control set window size
-- **full duplex data** bidirectional dataflow, [[MSS]] 
-- **connection-oriented** handshaking inits sender, receiver state before data exchange
-- **flow controlled** sender will not overwhelm receiver
+![[TCP]]
+
 
 ![[Pasted image 20230904195252.png]]
 
@@ -123,17 +106,13 @@ sender allows multiple, "in-flight", yet-to-be-acknowledged packets
 
 ![[Pasted image 20230904203819.png]]
 
-**TCP flow control**
-- **flow control** receiver controls sender, so sender won't overflow receiver's buffer by transmitting too much too fast
-- **rwnd value** included in TCP header, it's "free buffer space" - data to receiver's rwnd value is limited, guaranteeing the receive buffer will not overflow
-
 **connection management**
 *handshake* before exchanging data = agree to establish connection, agree on connection parameters
 
 tcp 3-way handshake 
 - client LISTEN > SYNSENT > ESTAB
 - server LISTEN > SYNRCVD > ESTAB
-- 
+
 ![[Pasted image 20230904204603.png]]
 
 **closing a connection**
@@ -208,3 +187,5 @@ TCP Tahoe always sets cwnd to 1 (timeout for 3 dupACKs)
 where w window size
 
 **fairness** for k TCP sessions that share bottleneck of bandwidth R, each should have avg. rate R/K
+
+[[FTP]]
