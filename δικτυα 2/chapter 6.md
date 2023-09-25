@@ -1,4 +1,4 @@
-“data link layer”
+[[data-link layer]]
 
 **terminology**
 - hosts and routers are **nodes**

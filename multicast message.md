@@ -1,0 +1,1 @@
+a message sent out on the network destined for **a group of systems**

@@ -7,3 +7,5 @@ b. a guarantee that a certain value for the throughput will be maintained (none)
 c. a guarantee that data will be delivered within a specified amount of time (none)
 
 d. confidentiality via encryption (none)
+
+

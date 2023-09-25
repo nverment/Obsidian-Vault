@@ -88,4 +88,3 @@ can’t make a spanning tree in the internet
 - receiving router unencapsulates to get mcast datagram
 
 ![[multicast datagrams]]
-
